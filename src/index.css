@@ -1,0 +1,19 @@
+:root {
+  --primary: #714091;
+  --secondary: #ff38c0;
+  --dark: #1c0320;
+  --light: #eee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: var(--light);
+}
+
+
